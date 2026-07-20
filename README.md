@@ -1,53 +1,49 @@
 ```text
-       _ _                           ____  
- __ _| | |__         _ __ _ __ ___   |__ / 
-/ _` | | '_ \ _____ | '__| '_ ` _ \   |_ \ 
-|(_| | | | | |_____|| |  | | | | | | ___) |
-\__, |_|_| |_|      |_|  |_| |_| |_||____/ 
-|___/                                      
+ ______     __  __     __     ______   ______    
+/\  ___\   /\ \/\ \   /\ \   /\__  _\ /\  __ \   
+\ \ \__ \  \ \ \_\ \  \ \ \  \/_/\ \/ \ \ \/\ \  
+ \ \_____\  \ \_____\  \ \_\    \ \_\  \ \_____\ 
+  \/_____/   \/_____/   \/_/     \/_/   \/_____/
 
 ```
 
- <div align="center">
-Cursando o 3º semestre do bacharelado em Sistemas de Informação
-na Universidade Estadual de Mato Grosso do Sul.
-</div>
+<div align="center"> Currently in the 4th semester of the Bachelor's degree in Information Systems at the State University of Mato Grosso do Sul (UEMS). </div>
 
 ## `whoami`
 
 ```
-Apaixonado por computadores, sistemas operacionais e cibersegurança.
+Passionate about computers, operating systems, and cybersecurity.
 ```
 
 ---
 
-## `$ tree ~/interesses/`
+## `$ tree ~/interests/`
 
 ```
-interesses/
-├── tecnico/
-│   ├── sistemas_operacionais.txt
-│   ├── desenvolvimento.txt
-│   └── seguranca_da_informacao.txt
-└── filosofia/
-    ├── software_livre.txt
+interests/
+├── technical/
+│   ├── operating_systems.txt
+│   ├── development.txt
+│   └── information_security.txt
+└── philosophy/
+    ├── free_software.txt
     └── gnu_linux.txt
 ```
 
 ---
 
-## `$ ls ~/repositorios/`
+## `$ ls ~/repositories/`
 
-- [t1-so-dispositivos-es](https://github.com/glh-rm3/t1-so-dispositivos-es) — Keylogger acadêmico (SO/UEMS) `C`
-- [UEMS](https://github.com/glh-rm3/UEMS) — Atividades da UEMS `C`
-- [uems-computacao-verde](https://github.com/glh-rm3/uems-computacao-verde) — TI Verde `—`
-- [Daily-Task-Manager](https://github.com/glh-rm3/Daily-Task-Manager) — Estudos de C++ `C++`
-- [Conversor-Binario-Decimal](https://github.com/glh-rm3/Conversor-Binario-Decimal) — Conversões numéricas em C++ `C++`
+- [t1-so-dispositivos-es](https://github.com/guito-0/t1-so-dispositivos-es) — Academic Keylogger (SO/UEMS) `C`
+- [UEMS](https://github.com/guito-0/UEMS) — UEMS coursework `C`
+- [uems-computacao-verde](https://github.com/guito-0/uems-computacao-verde) — Green IT `—`
+- [Daily-Task-Manager](https://github.com/guito-0/Daily-Task-Manager) — C++ studies `C++`
+- [Conversor-Binario-Decimal](https://github.com/guito-0/Conversor-Binario-Decimal) — Number conversions in C++ `C++`
 ---
 
-## $ `cat ~/.contatos`
+## $ `cat ~/.contacts`
  * **Email:** gametguito@gmail.com
- * **Instagram:** @glh_rm3
+ * **Instagram:** @_guito.o
 ---
 
 
