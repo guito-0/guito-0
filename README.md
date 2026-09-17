@@ -10,9 +10,9 @@
 
 ### Sobre mim
 
-Cursando o 4º semestre de **Sistemas de Informação** na Universidade Estadual de Mato Grosso do Sul.
+Cursando o 4º semestre do **Bacharelado em Sistemas de Informação** na Universidade Estadual de Mato Grosso do Sul.
 
-Sou monitor das disciplinas de **Arquitetura de Computadores** e **Elementos de Lógica Digital** na UEMS, e responsável pelo projeto de ensino **RevitaLinux**, focado em reaproveitar hardware antigo com Linux.
+Monitor da disciplina **Arquitetura de Computadores**, e responsável pelo projeto de ensino **[RevitaLinux](https://github.com/guito-0/uems-computacao-verde)**.
 
 Ativista do movimento software livre e curioso por sistemas operacionais.
 
@@ -31,6 +31,7 @@ Ativista do movimento software livre e curioso por sistemas operacionais.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" />
 </p>
 
 ---
